@@ -1,0 +1,65 @@
+1677224565361	geckodriver	INFO	Listening on 127.0.0.1:29813
+1677224775387	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ldy\\AppData\\Local\\Temp\\rust_mozprofilef30lE8"
+1677224821307	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ldy\\AppData\\Local\\Temp\\rust_mozprofile17VjMv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677224821690	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677224821861	Marionette	INFO	Listening on port 30367
+console.error: "Warning: unrecognized command line flag -foreground\n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1677224822382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ldy\\AppData\\Local\\Temp\\rust_mozprofile17VjMv\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://law.sysu.edu.cn/library/books?page=1 line 5 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677224848004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ldy\\AppData\\Local\\Temp\\rust_mozprofile65LVRF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677224848490	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677224848493	Marionette	INFO	Listening on port 30459
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1677224848885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ldy\\AppData\\Local\\Temp\\rust_mozprofile65LVRF\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://law.sysu.edu.cn/library/books?page=1 line 5 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1677225019444	Marionette	INFO	Stopped listening on port 30459
+Dynamically enable window occlusion 1
+1677225028885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ldy\\AppData\\Local\\Temp\\rust_mozprofilekSkGfW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677225029359	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677225029363	Marionette	INFO	Listening on port 30738
+console.error: "Warning: unrecognized command line flag -foreground\n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+1677225029955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ldy\\AppData\\Local\\Temp\\rust_mozprofilekSkGfW\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://law.sysu.edu.cn/library/books?page=1 line 5 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677225104231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ldy\\AppData\\Local\\Temp\\rust_mozprofileM7QADn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677225104589	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677225104593	Marionette	INFO	Listening on port 30890
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1677225104836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ldy\\AppData\\Local\\Temp\\rust_mozprofileM7QADn\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://law.sysu.edu.cn/library/books?page=1 line 5 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677225126794	Marionette	INFO	Stopped listening on port 30890
+Dynamically enable window occlusion 1
+1677225199626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ldy\\AppData\\Local\\Temp\\rust_mozprofileP1LofL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677225200077	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677225200081	Marionette	INFO	Listening on port 31031
+console.error: "Warning: unrecognized command line flag -foreground\n"
+1677225200254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ldy\\AppData\\Local\\Temp\\rust_mozprofileP1LofL\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://law.sysu.edu.cn/library/books?page=1 line 5 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1677226948688	Marionette	INFO	Stopped listening on port 31031
+Dynamically enable window occlusion 1
