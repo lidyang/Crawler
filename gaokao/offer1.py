@@ -108,6 +108,10 @@ def get_ver_code():
     res = ocr.classification(image_bytes)
     print(res)
     return res
+    
+
+
+
 
 if __name__ == '__main__':
     while True:
